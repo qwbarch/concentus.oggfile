@@ -1,6 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net452;netstandard1.1;netstandard2.0;net8.0</TargetFrameworks>
+    <AssemblyName>Concentus.Oggfile.Fork</AssemblyName>
+    <Title>Concentus.Oggfile.Fork</Title>
     <Id>Concentus.OggFile.Fork</Id>
     <Version>1.0.5.0</Version>
     <Title>Concentus.OggFile.Fork</Title>
