@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net452;netstandard1.1;netstandard2.0;net8.0</TargetFrameworks>
-    <Id>Concentus.OggFile</Id>
+    <Id>Concentus.OggFile.Fork</Id>
     <Version>1.0.5.0</Version>
-    <Title>Concentus.OggFile</Title>
+    <Title>Concentus.OggFile.Fork</Title>
     <Authors>Logan Stromberg</Authors>
     <Owners>Logan Stromberg</Owners>
     <Summary>OggOpus file handlers utilizing the Concentus codec</Summary>
